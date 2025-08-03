@@ -1,7 +1,7 @@
-## Hi 👋,I'm Sachin Huchhesh Vadavadagi
+## 
 
-<h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">A passionate developer & lifelong learner</h3>
+<h1 align="center">Hi 👋,I'm Sachin Huchhesh Vadavadagi</h1>
+<h3 align="center">A passionate Fullstack developer & lifelong learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+building+cool+projects;Always+learning+something+new!">
