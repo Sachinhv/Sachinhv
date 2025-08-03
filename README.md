@@ -17,9 +17,9 @@
 ---
 
 💼 **My Skills:**
-- Frontend: **React**, **HTML5**, **CSS3**, **JavaScript**
-- Backend: **Node.js**, **Python**, **Django**
-- Tools & Others: **Git**, **GitHub**, **VS Code**, **Figma**
+- Frontend: **HTML5**, **CSS3**, **JavaScript**,**DSA**
+- Backend: **Python**, **Django**
+- Tools & Others: **GitHub**, **VS Code**
 
 ---
 
