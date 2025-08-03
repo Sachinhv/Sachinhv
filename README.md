@@ -18,7 +18,7 @@
 
 💼 **My Skills:**
 - Frontend: **HTML5**, **CSS3**, **JavaScript**,**DSA**
-- Backend: **Python**, **Django**
+- Backend: **Python**, **SQL**, **Django**
 - Tools & Others: **GitHub**, **VS Code**
 
 ---
