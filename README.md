@@ -33,6 +33,8 @@
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-algorithm-computer-programming-flaticons-flat-flat-icons.png" alt="DSA" width="40" height="40"/>
 </p>
 
+---
+
 📄 **Resume:**  
 [Click here to view my resume](#) <!-- replace # with your resume link -->
 
